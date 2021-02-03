@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
 
 <!--
 **GH0STH4CKER/GH0STH4CKER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
