@@ -37,27 +37,12 @@
 <a href="mailto:dimuthdezoysa@gmail.com">
   <img align="left" alt="Gmail" width="5%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/gmail.svg" />
 </a>
+
 <br>
-<div>
+
 <h2>Starring Some Repos ❤️ Will Be Appreciated ... </h2>
-                                                                                                                      </div>
 
 &nbsp;</br></br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GH0STH4CKER.visitor-badge)
 
-<!--
-**GH0STH4CKER/GH0STH4CKER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ....
--->
-.
 
