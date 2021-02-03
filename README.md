@@ -8,7 +8,7 @@
 <h2>Few Repositories of Mine :</h2>
 <div id="two_repo">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=youtube_video_downloader&theme=dark">
-<img align="center" src="" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=TorrentSearch-Download&theme=dark" >
 </div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=QR-monkey&theme=dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=Lan_IP_Scanner&theme=dark" />
