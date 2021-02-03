@@ -6,7 +6,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH0STH4CKER&theme=dark&hide_langs_below=1" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=TheDudeThatCode&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=GH0STH4CKER&theme=dark" />
 
 <!--
 **GH0STH4CKER/GH0STH4CKER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
