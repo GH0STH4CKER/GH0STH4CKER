@@ -17,20 +17,21 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=Lan_IP_Scanner&theme=dark" />
 </div>
 
+<h2>Connect With Me :</h2>
 <a href="https://m.me/dimuth92">
-  <img align="left" alt="Messenger" width="15%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/messenger.svg" />
+  <img align="left" alt="Messenger" width="5%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/messenger.svg" />
 </a> &nbsp;&nbsp;
 <a href="t.me/Dimuth92">
-  <img align="left" alt="Telegram" width="15%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/telegram.svg" />
+  <img align="left" alt="Telegram" width="5%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/telegram.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.youtube.com/c/DimuthSakyaDeZoysa92">
-  <img align="left" alt="Youtube" width="15%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/youtube.svg" />
+  <img align="left" alt="Youtube" width=5%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/youtube.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:dimuthsakya@protonmail.com">
-  <img align="left" alt="Gmail" width="15%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/gmail.svg" />
+  <img align="left" alt="Gmail" width="5%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/gmail.svg" />
 </a>
 
-
+<br><br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GH0STH4CKER.visitor-badge)
 
 <!--
