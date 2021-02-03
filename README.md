@@ -16,12 +16,12 @@
 </br>
 <h2>Few Repositories of Mine :</h2>
 <div id="two_repo">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=youtube_video_downloader&theme=dark">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=QR-monkey&theme=dark" >
+<a href="https://github.com/GH0STH4CKER/youtube_video_downloader" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=youtube_video_downloader&theme=dark"></a>
+<a href="https://github.com/GH0STH4CKER/QR-monkey" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=QR-monkey&theme=dark" ></a>
 </div>
 <div id="two repo">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=TorrentSearch-Download&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=Lan_IP_Scanner&theme=dark" />
+<a href="https://github.com/GH0STH4CKER/TorrentSearch-Download" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=TorrentSearch-Download&theme=dark" /></a>
+<a href="https://github.com/GH0STH4CKER/Lan_IP_Scanner" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=Lan_IP_Scanner&theme=dark" /></a>
 </div>
 </br>
 <h2>Connect With Me :</h2>
