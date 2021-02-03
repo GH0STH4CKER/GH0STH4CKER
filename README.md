@@ -39,7 +39,7 @@
 </a>
 <br>
 
-<h2> Starring Some Repos ❤️ Will Be Appreciated ... </h2>
+<h2>Starring Some Repos ❤️ Will Be Appreciated ... </h2>
 
 &nbsp;</br></br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GH0STH4CKER.visitor-badge)
