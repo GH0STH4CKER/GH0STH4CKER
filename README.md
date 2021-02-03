@@ -38,9 +38,8 @@
   <img align="left" alt="Gmail" width="5%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/gmail.svg" />
 </a>
 
-<br>
-
-<a href="https://docs.github.com/en/rest/reference/activity#starring">Starring Some Repos ❤️ Will Be Appreciated ... </a>
+</br>
+Starring Some Repos ❤️ Will Be Appreciated ... 
 
 &nbsp;</br></br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GH0STH4CKER.visitor-badge)
