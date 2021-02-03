@@ -2,9 +2,11 @@
 
 <h2>I am Dimuth De Zoysa from Sri Lanka </h2>
 
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GH0STH4CKER&show_icons=true&theme=dark&line_height=27" alt="GH0STH4CKER's github stats"/>hi
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH0STH4CKER&theme=dark&hide_langs_below=1" />
+
 <h2>Few Repositories of Mine :</h2>
 <div id="two_repo">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=youtube_video_downloader&theme=dark">
@@ -14,6 +16,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=TorrentSearch-Download&theme=dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=Lan_IP_Scanner&theme=dark" />
 </div>
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
 <!--
 **GH0STH4CKER/GH0STH4CKER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
