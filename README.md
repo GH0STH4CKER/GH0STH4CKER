@@ -6,7 +6,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH0STH4CKER&theme=dark&hide_langs_below=1" />
 <h2>Few Repositories of Mine :</h2>
-<div>
+<div id="two_repo">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=youtube_video_downloader&theme=dark">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=TorrentSearch-Download&theme=dark" >
 </div>
