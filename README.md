@@ -40,7 +40,7 @@
 
 <br>
 
-Starring Some Repos ❤️ Will Be Appreciated ... 
+<a href="https://docs.github.com/en/rest/reference/activity#starring">Starring Some Repos ❤️ Will Be Appreciated ... </a>
 
 &nbsp;</br></br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GH0STH4CKER.visitor-badge)
