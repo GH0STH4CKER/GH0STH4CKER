@@ -18,16 +18,16 @@
 </div>
 
 <a href="https://m.me/dimuth92">
-  <img align="left" alt="Messenger" width="35%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/messenger.svg" />
+  <img align="left" alt="Messenger" width="15%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/messenger.svg" />
 </a> &nbsp;&nbsp;
 <a href="t.me/Dimuth92">
-  <img align="left" alt="Telegram" width="35%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/telegram.svg" />
+  <img align="left" alt="Telegram" width="15%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/telegram.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.youtube.com/c/DimuthSakyaDeZoysa92">
-  <img align="left" alt="Youtube" width="35%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/youtube.svg" />
+  <img align="left" alt="Youtube" width="15%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/youtube.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:dimuthsakya@protonmail.com">
-  <img align="left" alt="Gmail" width="35%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/gmail.svg" />
+  <img align="left" alt="Gmail" width="15%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/gmail.svg" />
 </a>
 
 
