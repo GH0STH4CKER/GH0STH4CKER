@@ -17,7 +17,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=Lan_IP_Scanner&theme=dark" />
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/GH0STH4CKER/count.svg)
+https://visitor-badge.laobi.icu/badge?page_id=GH0STH4CKER.visitor-badge
 
 <!--
 **GH0STH4CKER/GH0STH4CKER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
