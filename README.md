@@ -1,7 +1,6 @@
 # **Hi there !** <img src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/Hi.gif" width="29px">
 
 <h2>I am Dimuth De Zoysa from Sri Lanka </h2>
-</br>
 <div id="langs">
 <img align="center" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/c-programming.svg" width="6%"/>
 <img align="center" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/c.svg" width="5%"/>
