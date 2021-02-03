@@ -28,7 +28,7 @@
 <a href="https://m.me/dimuth92">
   <img align="left" alt="Messenger" width="5%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/messenger.svg" />
 </a> &nbsp;&nbsp;
-<a href="t.me/Dimuth92">
+<a href="https://t.me/Dimuth92">
   <img align="left" alt="Telegram" width="5%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/telegram.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.youtube.com/c/DimuthSakyaDeZoysa92">
