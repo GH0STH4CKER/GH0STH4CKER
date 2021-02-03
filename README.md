@@ -34,7 +34,7 @@
 <a href="https://www.youtube.com/c/DimuthSakyaDeZoysa92">
   <img align="left" alt="Youtube" width=5%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/youtube.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:dimuthsakya@protonmail.com">
+<a href="mailto:dimuthdezoysa@gmail.com">
   <img align="left" alt="Gmail" width="5%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/gmail.svg" />
 </a>
 
