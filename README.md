@@ -4,7 +4,7 @@
 </br>
 <div id="langs">
 <img align="center" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/c-programming.svg" width="6%"/>
-<img align="center" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/c.svg" width="6%"/>
+<img align="center" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/c.svg" width="4%"/>
 <img align="center" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/html-5.svg" width="6%"/>
 <img align="center" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/vbnet.png" width="6%"/>
 <img align="center" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/python.svg" width="6%"/>
