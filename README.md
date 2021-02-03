@@ -1,6 +1,12 @@
 # **Hi there !** <img src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/Hi.gif" width="29px">
 
 <h2>I am Dimuth De Zoysa from Sri Lanka </h2>
+</br>
+<img align="center" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/c-programming.svg" />
+<img align="center" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/c.svg" />
+<img align="center" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/html-5.svg" />
+<img align="center" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/vbbet.svg" />
+<img align="center" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/python.png" />
 
 <div id="stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GH0STH4CKER&show_icons=true&theme=dark&line_height=27" alt="GH0STH4CKER's github stats"/>
