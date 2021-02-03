@@ -6,6 +6,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GH0STH4CKER&show_icons=true&theme=dark&line_height=27" alt="GH0STH4CKER's github stats"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH0STH4CKER&theme=dark&hide_langs_below=1" />
 </div>
+</br>
 <h2>Few Repositories of Mine :</h2>
 <div id="two_repo">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=youtube_video_downloader&theme=dark">
@@ -15,7 +16,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=TorrentSearch-Download&theme=dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=Lan_IP_Scanner&theme=dark" />
 </div>
-
+</br>
 <h2>Connect With Me :</h2>
 <a href="https://m.me/dimuth92">
   <img align="left" alt="Messenger" width="5%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/messenger.svg" />
@@ -30,7 +31,7 @@
   <img align="left" alt="Gmail" width="5%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/gmail.svg" />
 </a>
 
-<br><br>
+</br></br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GH0STH4CKER.visitor-badge)
 
 <!--
