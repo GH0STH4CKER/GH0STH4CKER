@@ -37,8 +37,7 @@
 </a> &nbsp;&nbsp;
 <a href="mailto:dimuthdezoysa@gmail.com">
   <img align="left" alt="Gmail" width="5%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/gmail.svg" />
-</a>
-                                                                                                                      </div>                                                                                                                     
+</a></div>                                                                                                                     
 
 </br>
 Starring Some Repos ❤️ Will Be Appreciated ... 
