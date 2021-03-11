@@ -40,7 +40,7 @@
   <img align="left" alt="Gmail" width="8%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/gmail.svg" />
 </a></div>                                                                                                                     
 
-&nbsp;</br></br>
+&nbsp;<br><br>
 # [Buy me a Coffee☕ Support My Work](https://www.buymeacoffee.com/dimuthdezoysa) 
 
 &nbsp;<br>
