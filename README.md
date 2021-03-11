@@ -41,7 +41,7 @@
 </a></div>                                                                                                                     
 
 &nbsp;</br></br>
-# [Buy me a Coffee☕](https://www.buymeacoffee.com/dimuthdezoysa) 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="dimuthdezoysa" data-color="#5F7FFF" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GH0STH4CKER.visitor-badge)
 
 </br>
