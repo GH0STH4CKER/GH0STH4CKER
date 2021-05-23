@@ -14,8 +14,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GH0STH4CKER&show_icons=true&theme=dark&line_height=27" alt="GH0STH4CKER's github stats"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH0STH4CKER&theme=dark&hide_langs_below=1" />
 </div>
-<img src="https://github-profile-trophy.vercel.app/?username=GH0STH4CKER&column=7">
 </br>
+<img src="https://github-profile-trophy.vercel.app/?username=GH0STH4CKER&column=7">
+
 <h2>Few Repositories of Mine :</h2>
 <div id="two_repo">
 <a href="https://github.com/GH0STH4CKER/youtube_video_downloader" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=youtube_video_downloader&theme=dark"></a>
