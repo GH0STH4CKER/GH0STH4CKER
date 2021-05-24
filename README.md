@@ -50,6 +50,7 @@
 
 &nbsp;<br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GH0STH4CKER.visitor-badge)
+![GitHub followers](https://img.shields.io/github/followers/EvanLi?color=red) ![](https://komarev.com/ghpvc/?username=EvanLi&color=blue&label=Profile+Views)
 
 </br>
 <h2> Starring Some Repos ❤️ Will Be Appreciated ...  </h2>
