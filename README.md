@@ -28,7 +28,7 @@
 <a href="https://github.com/GH0STH4CKER/Lan_IP_Scanner" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=Lan_IP_Scanner&theme=dark" /></a>
 </div>
 </br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GH0STH4CKER)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GH0STH4CKER>
 </br>
 <h2>Connect With Me :</h2>
 <div id="links">
