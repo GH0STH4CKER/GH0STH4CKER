@@ -50,7 +50,7 @@
 
 &nbsp;<br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GH0STH4CKER.visitor-badge)
-![GitHub followers](https://img.shields.io/github/followers/GH0STH4CKER?color=yellow) ![](https://komarev.com/ghpvc/?username=GH0STH4CKER&color=lime&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/GH0STH4CKER?color=cyan) ![](https://komarev.com/ghpvc/?username=GH0STH4CKER&color=green&label=Profile+Views)
 
 </br>
 <h2> Starring Some Repos ❤️ Will Be Appreciated ...  </h2>
