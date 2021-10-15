@@ -1,5 +1,5 @@
 # **Hi there !** <img src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/Hi.gif" width="29px">
-<img title="SL Android" src="https://camo.githubusercontent.com/e1258c1f6812ea55e39d5b8d9157b4f96ed77da06ae4c8fbc0c1439f049d23e5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d52617a6f724b656e776179266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH0STH4CKER&amp;layout=compact" style="max-width: 100%;">
+
 <h2>I am Dimuth De Zoysa from Sri Lanka </h2>
 
 <h3>Programming Language I Have Studieds</h3></br>
@@ -15,7 +15,7 @@
 &nbsp;
 <div id="stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GH0STH4CKER&show_icons=true&theme=chartreuse-dark&line_height=27" width="400x" alt="GH0STH4CKER's github stats"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH0STH4CKER&theme=dark&hide_langs_below=1&layout=compact" width="400px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH0STH4CKER&theme=dark&hide_langs_below=1&layout=compact" width="440px"/>
 </div>
 </br>
 <img src="https://github-profile-trophy.vercel.app/?username=GH0STH4CKER&column=7">
