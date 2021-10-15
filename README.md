@@ -33,16 +33,16 @@
 <h2>Connect With Me :</h2>
 <div id="links">
 <a href="https://m.me/dimuth92">
-  <img align="left" alt="Messenger" width="8%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/messenger.svg" />
+  <img align="left" alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
 </a> &nbsp;&nbsp;
 <a href="https://t.me/Dimuth92">
-  <img align="left" alt="Telegram" width="8%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/telegram.svg" />
+  <img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a> &nbsp;&nbsp;
-<a href="https://www.youtube.com/c/DimuthSakyaDeZoysa92">
-  <img align="left" alt="Youtube" width="8%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/youtube.svg" />
+<a href="https://www.youtube.com/c/GhostAcademy">
+  <img align="left" alt="Youtube Channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a> &nbsp;&nbsp;
 <a href="mailto:dimuthdezoysa@gmail.com">
-  <img align="left" alt="Gmail" width="8%" src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/gmail.svg" />
+  <img align="left" alt="Gmail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a></div>                                                                                                                     
 
 &nbsp;</br></br>
