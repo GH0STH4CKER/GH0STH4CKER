@@ -43,7 +43,11 @@
 </a> &nbsp;&nbsp;
 <a href="mailto:dimuthdezoysa@gmail.com">
   <img align="left" alt="Gmail" src="https://shields.io/badge/GMAIL-d6001f?logo=gmail&logoColor=white&style=for-the-badge" />
-</a></div>                                                                                                                     
+</a>
+<a href="https://ghostacademysl.blogspot.com">
+  <img align="left" alt="Gmail" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+</a>
+</div>                                                                                                                     
 
 &nbsp;</br></br>
 ## [Buy me a Coffee ☕ To Support My Work ❤️](https://www.buymeacoffee.com/dimuthdezoysa) 
