@@ -42,7 +42,7 @@
   <img align="left" alt="Youtube Channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a> &nbsp;&nbsp;
 <a href="mailto:dimuthdezoysa@gmail.com">
-  <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="left" alt="Gmail" src="https://shields.io/badge/GMAIL-BB001B?logo=gmail&logoColor=white&style=for-the-badge" />
 </a></div>                                                                                                                     
 
 &nbsp;</br></br>
