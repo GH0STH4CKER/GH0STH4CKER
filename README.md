@@ -52,12 +52,12 @@
 </div>                                                                                                                     
 
 &nbsp;</br></br>
-<a href='https://www.buymeacoffee.com/dimuthdezoysa'><img src='https://user-images.githubusercontent.com/62290930/137678058-e9cf6bec-9f56-49d5-8699-a9a6627dcbc7.png' width='120px' height='120px'></a>
+<a href='https://www.buymeacoffee.com/dimuthdezoysa'><img src='https://user-images.githubusercontent.com/62290930/137678058-e9cf6bec-9f56-49d5-8699-a9a6627dcbc7.png' width='50%'></a>
 
 
 &nbsp;<br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GH0STH4CKER.visitor-badge)
-![GitHub followers](https://img.shields.io/github/followers/GH0STH4CKER?color=cyan) ![](https://komarev.com/ghpvc/?username=GH0STH4CKER&color=green&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/GH0STH4CKER?color=0000ff) ![](https://komarev.com/ghpvc/?username=GH0STH4CKER&color=00ff00&label=Profile+Views)
 
 </br>
 <h2> Starring Some Repos ❤️ Will Be Appreciated ...  </h2>
