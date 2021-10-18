@@ -52,7 +52,7 @@
 </div>                                                                                                                     
 
 &nbsp;</br></br>
-![buymecofee](https://user-images.githubusercontent.com/62290930/137678058-e9cf6bec-9f56-49d5-8699-a9a6627dcbc7.png)
+<a href='https://www.buymeacoffee.com/dimuthdezoysa'><img src='https://user-images.githubusercontent.com/62290930/137678058-e9cf6bec-9f56-49d5-8699-a9a6627dcbc7.png' width='120px'></a>
 
 
 &nbsp;<br>
