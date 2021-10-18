@@ -2,6 +2,7 @@
 
 <h2>I am Dimuth De Zoysa from Sri Lanka </h2>
 <img src='https://raw.githubusercontent.com/GH0STH4CKER/GH0STH4CKER/main/Assets/GHOSTcoding1cropped%202.png' width='186.5x'>
+![GHOSTcoding1cropped 2 resize](https://user-images.githubusercontent.com/62290930/137728791-05e95923-7e38-41e4-beea-2c43a5baa8bc.png)
 
 <h3>Programming Language I Have Studieds</h3></br>
 <div id="langs">
