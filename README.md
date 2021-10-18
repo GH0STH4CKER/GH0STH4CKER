@@ -1,7 +1,7 @@
 # **Hi there !** <img src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/Hi.gif" width="29px">
 
 <h2>I am Dimuth De Zoysa from Sri Lanka </h2>
-<img src='https://raw.githubusercontent.com/GH0STH4CKER/GH0STH4CKER/main/Assets/GHOSTcoding1cropped%202.png' width='1492' height='1550'>
+<img src='https://raw.githubusercontent.com/GH0STH4CKER/GH0STH4CKER/main/Assets/GHOSTcoding1cropped%202.png'  height='1550'>
 
 <h3>Programming Language I Have Studieds</h3></br>
 <div id="langs">
