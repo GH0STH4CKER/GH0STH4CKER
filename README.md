@@ -52,6 +52,7 @@
 </div>                                                                                                                     
 
 &nbsp;</br></br>
+<h2>Support Me :</h2>
 <a href='https://www.buymeacoffee.com/dimuthdezoysa'><img src='https://user-images.githubusercontent.com/62290930/137678058-e9cf6bec-9f56-49d5-8699-a9a6627dcbc7.png' width='20%'></a>&nbsp;&nbsp;&nbsp;<a href='https://ko-fi.com/dimuthdezoysa'><img src='https://user-images.githubusercontent.com/62290930/137682716-d470ab62-7e7a-456f-89f3-5c4de63bc8a4.png' width='18%'></a>
 
 
