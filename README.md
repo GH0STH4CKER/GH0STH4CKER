@@ -52,7 +52,8 @@
 </div>                                                                                                                     
 
 &nbsp;</br></br>
-## [Buy me a Coffee ☕ To Support My Work ❤️](https://www.buymeacoffee.com/dimuthdezoysa) 
+![buymecofee](https://user-images.githubusercontent.com/62290930/137678058-e9cf6bec-9f56-49d5-8699-a9a6627dcbc7.png)
+
 
 &nbsp;<br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GH0STH4CKER.visitor-badge)
