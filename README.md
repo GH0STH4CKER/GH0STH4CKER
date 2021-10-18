@@ -57,7 +57,8 @@
 
 <br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GH0STH4CKER.visitor-badge)
-![GitHub followers](https://img.shields.io/github/followers/GH0STH4CKER?color=5cd6ca) ![](https://komarev.com/ghpvc/?username=GH0STH4CKER&color=4dbd40&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/GH0STH4CKER?color=5cd6ca)
+![profile views](https://komarev.com/ghpvc/?username=GH0STH4CKER&color=4dbd40&label=Profile+Views)
 
 
 <h2> Starring Some Repos ❤️ Will Be Appreciated ... </h2>
