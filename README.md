@@ -55,11 +55,12 @@
 <h2>Support Me :</h2>
 <a href='https://www.buymeacoffee.com/dimuthdezoysa'><img src='https://user-images.githubusercontent.com/62290930/137678058-e9cf6bec-9f56-49d5-8699-a9a6627dcbc7.png' width='20%'></a>&nbsp;&nbsp;&nbsp;<a href='https://ko-fi.com/dimuthdezoysa'><img src='https://user-images.githubusercontent.com/62290930/137682716-d470ab62-7e7a-456f-89f3-5c4de63bc8a4.png' width='18%'></a>
 
-
-
-&nbsp;<br>
+<br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GH0STH4CKER.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/GH0STH4CKER?color=5cd6ca) ![](https://komarev.com/ghpvc/?username=GH0STH4CKER&color=4dbd40&label=Profile+Views)
 
-</br>
-<h2> Starring Some Repos ❤️ Will Be Appreciated ...  </h2>
+
+<h2> Starring Some Repos ❤️ Will Be Appreciated ... </h2>
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7883716&style=0001&nbdigits=4&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>                  
