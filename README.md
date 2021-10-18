@@ -3,7 +3,7 @@
 <h2>I am Dimuth De Zoysa from Sri Lanka </h2>
 <img src='https://raw.githubusercontent.com/GH0STH4CKER/GH0STH4CKER/main/Assets/GHOSTcoding1cropped%202.png' width='180px'>
 &nbsp;
-![avatarcreate6 copy](https://user-images.githubusercontent.com/62290930/137726874-ba96d4af-a772-4e77-b64b-84d51b9c2135.jpg)
+<img src='https://user-images.githubusercontent.com/62290930/137726874-ba96d4af-a772-4e77-b64b-84d51b9c2135.jpg' width='180px'>
 
 <h3>Programming Language I Have Studieds</h3></br>
 <div id="langs">
