@@ -51,9 +51,6 @@
 <a href="https://ghostacademysl.blogspot.com">
   <img align="left" alt="Gmail" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
-<a href='https://stackoverflow.com/users/3111290/ghost21blade'>
-  <img src='https://aleen42.github.io/badges/src/stackoverflow.svg'>
-</a>
 </div>                                                                                                                     
 
 &nbsp;</br></br>
@@ -64,6 +61,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GH0STH4CKER.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/GH0STH4CKER?color=5cd6ca)
 ![profile views](https://komarev.com/ghpvc/?username=GH0STH4CKER&color=4dbd40&label=Profile+Views)
+<a href='https://stackoverflow.com/users/3111290/ghost21blade'>
+  <img src='https://aleen42.github.io/badges/src/stackoverflow.svg'>
+</a>
 
 
 <h2> Starring Some Repos ❤️ Will Be Appreciated ... </h2>
