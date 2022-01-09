@@ -34,7 +34,7 @@
 </div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GH0STH4CKER" width="0px">
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/GH0STH4CKER/repos?time_range=one_year&theme=ferns)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/GH0STH4CKER/repos?time_range=one_year&theme=classic)](https://githubtrends.io)
 
 <h2>Connect With Me :</h2>
 <div id="links">
