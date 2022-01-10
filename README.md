@@ -25,12 +25,12 @@
 
 <h2>Few Repositories of Mine :</h2>
 <div id="two_repo">
-<a href="https://github.com/GH0STH4CKER/WP_Scanner" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=WP_Scanner&theme=chartreuse-dark"></a>
-<a href="https://github.com/GH0STH4CKER/QR-monkey" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=QR-monkey&theme=chartreuse-dark" ></a>
+<a href="https://github.com/GH0STH4CKER/WP_Scanner" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=WP_Scanner"></a>
+<a href="https://github.com/GH0STH4CKER/QR-monkey" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=QR-monkey" ></a>
 </div>
 <div id="two repo">
-<a href="https://github.com/GH0STH4CKER/python_music_player" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=python_music_player&theme=chartreuse-dar" /></a>
-<a href="https://github.com/GH0STH4CKER/Lan_IP_Scanner" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=Lan_IP_Scanner&theme=chartreuse-dark" /></a>
+<a href="https://github.com/GH0STH4CKER/python_music_player" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=python_music_player" /></a>
+<a href="https://github.com/GH0STH4CKER/Lan_IP_Scanner" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=Lan_IP_Scanner" /></a>
 </div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GH0STH4CKER" width="0px">
 
