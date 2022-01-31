@@ -4,6 +4,8 @@
 
 <img src="https://user-images.githubusercontent.com/62290930/137728791-05e95923-7e38-41e4-beea-2c43a5baa8bc.png" >
 
+<img src='https://metrics.lecoq.io/GH0STH4CKER'>
+
 <h3>Programming Language I Have Studied</h3></br>
 <div id="langs">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
