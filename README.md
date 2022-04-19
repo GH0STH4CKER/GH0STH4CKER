@@ -67,6 +67,6 @@
   <img src='https://aleen42.github.io/badges/src/stackoverflow.svg'>
 </a></br>
 
-<a href='https://www.hackerrank.com/certificates/0d5039ea34d2'><img src='https://user-images.githubusercontent.com/62290930/163999678-058f9b09-4708-43b4-8aad-4af1dbb34c87.png' width='200px'></a>
+<a href='https://www.hackerrank.com/certificates/0d5039ea34d2' target="_blank"><img src='https://user-images.githubusercontent.com/62290930/163999678-058f9b09-4708-43b4-8aad-4af1dbb34c87.png' width='200px'></a>
 
 <h2> 🌟 Starring Some Repos ❤️ Will Be Appreciated ... </h2>
