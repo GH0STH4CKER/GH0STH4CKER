@@ -71,5 +71,4 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/Ghost.H4cker.png" alt="TryHackMe">
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="dimuth-de-zoysa-0808423b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/dimuth-de-zoysa-0808423b?trk=profile-badge">Dimuth De Zoysa</a></div>
               
-<script src="https://tryhackme.com/badge/596232"></script>
 <h2> 🌟 Starring Some Repos ❤️ Will Be Appreciated ... </h2>
