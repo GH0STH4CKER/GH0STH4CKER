@@ -1,4 +1,4 @@
-# **Hi there !** <img src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/Hi.gif" width="29px"><img src='https://raw.githubusercontent.com/GH0STH4CKER/GH0STH4CKER/main/Earth.gif' width=20px>
+# **Hi there !** <img src="https://github.com/GH0STH4CKER/GH0STH4CKER/blob/main/Assets/Hi.gif" width="10px"><img src='https://raw.githubusercontent.com/GH0STH4CKER/GH0STH4CKER/main/Earth.gif' width=8px>
 
 <h2>I am Dimuth De Zoysa from Sri Lanka </h2>
 
