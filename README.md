@@ -57,7 +57,7 @@
 
 &nbsp;</br></br>
 <h2>Support Me :</h2>
-<a href='https://www.buymeacoffee.com/dimuthdezoysa' target='_blank'><img src='https://user-images.githubusercontent.com/62290930/137678058-e9cf6bec-9f56-49d5-8699-a9a6627dcbc7.png' width='20%'></a>&nbsp;&nbsp;&nbsp;<a href='https://ko-fi.com/dimuthdezoysa' target='_blank'><img src='https://user-images.githubusercontent.com/62290930/137682716-d470ab62-7e7a-456f-89f3-5c4de63bc8a4.png' width='18%'></a>&nbsp;&nbsp;&nbsp;<a href='https://www.paypal.com/donate/?hosted_button_id=FB9KXK4TEAUJ6' target='_blank'><img src='https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white'></a>
+<a href='https://www.buymeacoffee.com/dimuthdezoysa' target='_blank'><img src='https://user-images.githubusercontent.com/62290930/137678058-e9cf6bec-9f56-49d5-8699-a9a6627dcbc7.png' width='20%'></a>&nbsp;&nbsp;&nbsp;<a href='https://ko-fi.com/dimuthdezoysa' target='_blank'><img src='https://user-images.githubusercontent.com/62290930/137682716-d470ab62-7e7a-456f-89f3-5c4de63bc8a4.png' width='18%'></a>&nbsp;&nbsp;&nbsp;<a href='https://www.paypal.com/donate/?hosted_button_id=FB9KXK4TEAUJ6' target='_blank'><img src='https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white' width='18%'></a>
 
 &nbsp;&nbsp;<br></br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GH0STH4CKER.visitor-badge)
