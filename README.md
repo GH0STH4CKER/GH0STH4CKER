@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/62290930/137728791-05e95923-7e38-41e4-beea-2c43a5baa8bc.png" >
 
-<h3>Programming Language I Have Studied</h3></br>
+<h3>Programming Languages I Have Studied</h3></br>
 <div id="langs">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
@@ -22,6 +22,7 @@
 </br>
 <!--img src="https://github-profile-trophy.vercel.app/?username=GH0STH4CKER&column=7"-->
 <img src='https://raw.githubusercontent.com/GH0STH4CKER/GH0STH4CKER/c39ec6f0d60c496d6ba5c319d851b4763fda8cbd/profile-3d-contrib/profile-gitblock.svg#gh-dark-mode-only' alt='GH0STHSTH4CKER's Commit Chart' width='60%'>
+<img src='https://raw.githubusercontent.com/GH0STH4CKER/GH0STH4CKER/d95ebb488be90d1ff82752f3903354ff3b767b6c/profile-3d-contrib/profile-night-view.svg#gh-light-mode-only' alt='GH0STHSTH4CKER's Commit Chart' width='60%'>
 
 <h2>Few Repositories of Mine :</h2>
 <div id="two_repo">
