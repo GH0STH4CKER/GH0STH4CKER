@@ -20,7 +20,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH0STH4CKER&theme=dark&hide_langs_below=1&layout=compact" width="360px"/>
 </div>
 </br>
-<img src="https://github-profile-trophy.vercel.app/?username=GH0STH4CKER&column=7">
+<!--img src="https://github-profile-trophy.vercel.app/?username=GH0STH4CKER&column=7"-->
 
 
 <h2>Few Repositories of Mine :</h2>
