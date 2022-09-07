@@ -16,7 +16,7 @@
 </div>
 &nbsp;
 <div id="stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GH0STH4CKER&show_icons=true&theme=chartreuse-dark&line_height=28#gh-light-mode-only" width="400x" alt="GH0STH4CKER's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GH0STH4CKER&show_icons=true&theme=chartreuse-dark&line_height=28.png#gh-dark-mode-only" width="400x" alt="GH0STH4CKER's github stats"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GH0STH4CKER&show_icons=true&theme=chartreuse-white&line_height=28#gh-light-mode-only" width="400x" alt="GH0STH4CKER's github stats"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH0STH4CKER&theme=dark&hide_langs_below=1&layout=compact#gh-dark-mode-only" width="360px"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH0STH4CKER&theme=light&hide_langs_below=1&layout=compact#gh-light-mode-only" width="360px"/>
