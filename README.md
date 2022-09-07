@@ -16,7 +16,7 @@
 </div>
 &nbsp;
 <div id="stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GH0STH4CKER&show_icons=true&theme=chartreuse-dark&line_height=27" width="400x" alt="GH0STH4CKER's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GH0STH4CKER&show_icons=true&theme=chartreuse-dark&line_height=28" width="400x" alt="GH0STH4CKER's github stats"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH0STH4CKER&theme=dark&hide_langs_below=1&layout=compact" width="360px"/>
 </div>
 </br>
