@@ -1,6 +1,7 @@
 # **Hi there !** <img src="https://raw.githubusercontent.com/GH0STH4CKER/GH0STH4CKER/main/Assets/Hi.gif" width="3%"><img src='https://raw.githubusercontent.com/GH0STH4CKER/GH0STH4CKER/main/Earth.gif' width="3%">
 
 <h2>I am Dimuth De Zoysa from Sri Lanka </h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=1FE437&width=435&lines=Python+Developer;WordPress+Web+Developer;Android+App+developer;Front-End+Web+Developer" alt="Typing SVG" /></a>
 
 <img src="https://user-images.githubusercontent.com/62290930/137728791-05e95923-7e38-41e4-beea-2c43a5baa8bc.png" >
 
