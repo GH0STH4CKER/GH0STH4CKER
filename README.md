@@ -73,10 +73,10 @@
 <a href='https://stackoverflow.com/users/3111290/ghost21blade'>
   <img src='https://aleen42.github.io/badges/src/stackoverflow.svg'>
 </a></br>
- 
+
+<a href='https://www.credly.com/badges/022d5c57-53c2-4e7d-8b67-af4085f55c3d/public_url'><img src="https://github.com/user-attachments/assets/0a4cfc94-5c1c-43d7-adb5-f7a0f92adbb8" width="180px"></a> 
 <a href='https://www.hackerrank.com/certificates/0d5039ea34d2' target="_blank"><img src='https://user-images.githubusercontent.com/62290930/163999678-058f9b09-4708-43b4-8aad-4af1dbb34c87.png' width='200px'></a>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Ghost.H4cker.png" alt="TryHackMe.">
-<a href='https://www.credly.com/badges/022d5c57-53c2-4e7d-8b67-af4085f55c3d/public_url'><img src="https://github.com/user-attachments/assets/0a4cfc94-5c1c-43d7-adb5-f7a0f92adbb8" width="200px"></a>
 
 
  
