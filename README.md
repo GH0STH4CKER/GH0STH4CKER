@@ -42,7 +42,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GH0STH4CKER" width="300px">
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/GH0STH4CKER/repos?time_range=one_year&theme=classic)](https://githubtrends.io)
-
+[![Github Trends ](https://api.githubtrends.io/user/svg/GH0STH4CKER/langs?time_range=one_year&compact=True&theme=classic)](https://githubtrends.io)
 <h2>Connect With Me :</h2>
 <div id="links">
 <a href="https://m.me/dimuth92">
