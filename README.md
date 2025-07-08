@@ -26,7 +26,7 @@
   
 </div>
 </br>
-<!--img src="https://github-profile-trophy.vercel.app/?username=GH0STH4CKER&column=7"-->
+<img src="https://github-profile-trophy.vercel.app/?username=GH0STH4CKER&column=7">
 <img src='https://raw.githubusercontent.com/GH0STH4CKER/GH0STH4CKER/c39ec6f0d60c496d6ba5c319d851b4763fda8cbd/profile-3d-contrib/profile-gitblock.svg#gh-light-mode-only' alt='GH0STHSTH4CKER's Commit Chart' width='60%'>
 <img src='https://raw.githubusercontent.com/GH0STH4CKER/GH0STH4CKER/d95ebb488be90d1ff82752f3903354ff3b767b6c/profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only' alt='GH0STHSTH4CKER's Commit Chart' width='60%'>
 
