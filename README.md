@@ -41,6 +41,13 @@
 <a href="https://github.com/GH0STH4CKER/XSSpwn" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=XSSpwn" /></a>
 <a href="https://github.com/GH0STH4CKER/Lan_IP_Scanner" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GH0STH4CKER&repo=Lan_IP_Scanner" /></a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GH0STH4CKER/GH0STH4CKER/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GH0STH4CKER/GH0STH4CKER/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GH0STH4CKER/GH0STH4CKER/output/github-snake.svg" />
+</picture>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GH0STH4CKER" width="300px">
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/GH0STH4CKER/repos?time_range=one_year&theme=classic)](https://githubtrends.io)
