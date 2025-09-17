@@ -66,8 +66,8 @@
 <a href="mailto:dimuthdezoysa@gmail.com">
   <img align="left" alt="Gmail" src="https://shields.io/badge/GMAIL-d6001f?logo=gmail&logoColor=white&style=for-the-badge" />
 </a>
-<a href="https://ghostacademysl.blogspot.com">
-  <img align="left" alt="Gmail" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+<a href="https://medium.com/@ghostdevlk">
+  <img align="left" alt="Gmail" src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" />
 </a>
 </div>                                                                                                                     
 
