@@ -20,11 +20,11 @@
 
 </div>
 &nbsp;
-<div id="stats">
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=GH0STH4CKER&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=GH0STH4CKER&show_icons=true&include_all_commits=true&theme=light_github)
-<!--img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH0STH4CKER&theme=dark&hide_langs_below=1&layout=compact" width="360px"-->
+
   
-</div>
+
 </br>
 <img src="https://github-profile-trophy-unserori.vercel.app/?username=GH0STH4CKER">
 <!--img src='https://raw.githubusercontent.com/GH0STH4CKER/GH0STH4CKER/c39ec6f0d60c496d6ba5c319d851b4763fda8cbd/profile-3d-contrib/profile-gitblock.svg#gh-light-mode-only' alt='GH0STHSTH4CKER's Commit Chart' width='60%'-->
